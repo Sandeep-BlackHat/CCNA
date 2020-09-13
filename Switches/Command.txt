@@ -1,0 +1,13 @@
+Switch inside command:
+
+switch> enable
+switch# show mac-address-table
+
+output:
+Vlan    Mac Address       Type        Ports
+----    -----------       --------    -----
+
+   1    0001.4298.a262    DYNAMIC     Fa0/4
+   1    00e0.b059.0a97    DYNAMIC     Fa0/1
+   
+  
