@@ -1,0 +1,9 @@
+Hubs and Wifi - Dumb
+
+Switches - It got brains!
+
+switch - learn - frame - packtes
+switch -- ports use only Mac address!
+        -- forward sending = Destination MAC address
+        -- sending = Source Mac Address
+        -- 2 layers work only! 2nd(Data Layer) and on reaching dest. 3rd(Network Layer)
