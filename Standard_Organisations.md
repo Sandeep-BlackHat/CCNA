@@ -1,12 +1,12 @@
 ## Following are the organistaions:
 
 * ***International Standards Organization (ISO)***:
-
+```css
   It was created in 1947, it is an entirely voluntary organistaion dedicated to worldwide
   agreement on international standards. With a representative bodies from different countries.
   With the contribution by ISO the OSI (Open System Inter-connection) was created for network
   communication.
-
+```
 * ***International Telecommunication Union Telecummincation Standards Sector (ITU-I)***:
 ```css
   By the early 1970s, different countries were defining their own telecommunication standards.
