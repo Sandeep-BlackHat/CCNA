@@ -14,6 +14,7 @@
   Telegraphy and Telephony (CCITT), and on March 1, 1993 it was changed to (ITU-I).
 ```
 * ***American National Standard Institute (ANSI)***
+* ***Institue of Electrical and Electronic Engg (IEEE)***
 ```css
    // code for coloring
 ```
