@@ -14,7 +14,11 @@
   Telegraphy and Telephony (CCITT), and on March 1, 1993 it was changed to (ITU-I).
 ```
 * ***American National Standard Institute (ANSI)***
+  It is a completely private, non-profit corporatoion and is not affliated with US Government.
+   
 * ***Institue of Electrical and Electronic Engg (IEEE)***
+  It is the largest professional Engg society in the world. It aims to advance in theory, 
+  creativity, and productivity in fields of eletrical and electronic engg..
 ```css
    // code for coloring
 ```
